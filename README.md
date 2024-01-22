@@ -7,3 +7,6 @@ https://disse.cting.org/2016/08/02/2016-08-02-sandbox-break-out-nunjucks-templat
 Ao subir código, precisa subir o MongoDB, para se conectar:
 
 https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/
+
+Comando pra iniciar:  npm run devStart
+
